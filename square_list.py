@@ -1,6 +1,6 @@
 def square_list(nums):
     """
-    Outputs the product of the two arguments.
+    Squares all contents of a list and mutates it with the new values.
         
     Arguments: 
         nums (list of ints): The list of integers that the function will modify.
